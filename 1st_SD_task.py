@@ -1,6 +1,6 @@
 import bisect
 import time
-import osd
+import osdfgdfg
 
 def clear_terminal():
     # Clear the terminal screen in Windows
